@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 32.8333,
+        "lat": 39.9167
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 291,
+        "feels_like": 289.55,
+        "temp_min": 290.58,
+        "temp_max": 291.75,
+        "pressure": 1020,
+        "humidity": 27,
+        "sea_level": 1020,
+        "grnd_level": 902
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.57,
+        "deg": 300
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1730114996,
+    "sys": {
+        "type": 2,
+        "id": 267643,
+        "country": "TR",
+        "sunrise": 1730088790,
+        "sunset": 1730127089
+    },
+    "timezone": 10800,
+    "id": 323784,
+    "name": "Ankara Province",
+    "cod": 200
+}
